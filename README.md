@@ -139,4 +139,4 @@ Contributions are welcome!  If you find a bug, have a suggestion, or would like 
 
 ## License
 
-[Specify the license for your project, e.g., MIT License]
+MIT License
